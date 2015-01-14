@@ -3,9 +3,13 @@ lowdollars
 
 this is a way of doing a crypto dollars where the reward goes for maintaining the ledger, with no difficulty
 
+please ask if you want to contribute, nothing personal, within the guide lines, 
+a subject in a forum, files, constructive opinions, normal official things are usually reasonable to consider. 
+the simplest versions are prefered. because it will be checked for integrity, often,
+
 ledger is maintained and checked constantly, 
 transactions are checked constantly, 
-rewards goes to the number of transaction chacking
+rewards goes to the number of transaction checked
 wallets are crypted, what is in it is known 
 
 send 3 x 100 
