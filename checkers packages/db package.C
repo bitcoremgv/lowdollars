@@ -12,7 +12,7 @@ var dbs
 
 wallets_ledger : {
 
- id:           } ,cryptos_used :   ,	   crypteds :   ,  lowdollars :
+ id:{: : : } ,cryptos_used :   ,	   crypteds :   ,  lowdollars :
 
   	}     ,
  checkers_ledger : {
