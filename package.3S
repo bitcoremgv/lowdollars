@@ -1,21 +1,21 @@
-the packages are 
+the packages are
 
 
-for checkers 
+for checkers
   db
-  checking 
-  send send back  
- 
+  checking
+  send send back
+
 
 for wallets
   wallets
 
 
-the send send back package 
-sends 
-for 
-the checking package 
-to 
+the send send back package
+sends
+for
+the checking package
+to
 the db package
 
 
@@ -32,41 +32,41 @@ the ledgers used for the dbs and dbs datas formated for dbs
 id ledger
  for checkers to that is the meters
  and checkers datas schemes
- 
-wallet ledger 
+
+wallet ledger
  for wallets   cryptos used low dollars crypted
- 
+
 rewards ask ledger
-to have the mean ask of checkers 
+to have the mean ask of checkers
 low dollars
 
 datas ledger
  to have all currenc  datas for a rwards ask and to assess it
- all courrency datas  
-  
+ all courrency datas
+
 constancy ledger
   unconstancy should be assessed and this is the issues to be assessed
-  all issues that are unconstant or unconsistant or pertinent 
+  all issues that are unconstant or unconsistant or pertinent
     constancy ledgering sends a constancy ask for checkers to check the constancy issue and they can check the ledgers as it check this
-	constancy check can be send for no issues or for issues 
-	 
+	constancy check can be send for no issues or for issues
+
 
 checkers ledger
- to check checkers 
- their ledgers checking   their send back   their constancy ask    
+ to check checkers
+ their ledgers checking   their send back   their constancy ask
 
 cryptos ledger
- the cryptos used and their 
- the crypted are constant and the cryptos used can be or not 
- the ledger is a guide 
-   
-rewards ledger
- to assess the rewards 
- the mean rewards that is following the rewards ask
- 
- 
+ the cryptos used and their
+ the crypted are constant and the cryptos used can be or not
+ the ledger is a guide
 
- 
+rewards ledger
+ to assess the rewards
+ the mean rewards that is following the rewards ask
+
+
+
+
 
 
 
@@ -77,7 +77,7 @@ the checking package
 
 is the tasks for the dbs
 
-for checkers to be 
+for checkers to be
  checking db ledgers
  sending back
  asking rewards
@@ -92,19 +92,19 @@ for checkers to be
 
 
 
-the send send back packages 
+the send send back packages
 
-is the thing that are used for sending asks 
+is the thing that are used for sending asks
 rewards asks
 constancy asks
 reebncryption aks for wallets
-the wallets and the checkers are using it 
+the wallets and the checkers are using it
 
-and sending back 
+and sending back
  for decryption asks
- for the decrypted 
+ for the decrypted
  for constancy asks
- 
+
 
 
 
@@ -115,9 +115,9 @@ and sending back
 
 
 wallets packages
- is the wallets needs and wallets 
+ is the wallets needs and wallets
  it is used to have a wallet or to agree for wallet to be used
- no dbs for wallets 
+ no dbs for wallets
 
 
 
@@ -130,11 +130,11 @@ wallets packages
 
 
 the checkers package
-are the  
- checking package 
- db package 
- send send back package  
-  
+are the
+ checking package
+ db package
+ send send back package
+
 
 
 
@@ -152,22 +152,22 @@ as a wallet
  use a wallet
 
 
-the dbs are odbms 
-
-
-
- 
+the dbs are odbms
 
 
 
 
 
-the wallets are reencrypters 
-crypt a elements 
+
+
+
+
+the wallets are reencrypters
+crypt a elements
 send crypted and cryptos used
 
-to use it 
-send decryption ask 
+to use it
+send decryption ask
 send decrypted
 send reencryption and cryptos used
 
@@ -177,7 +177,6 @@ send back for decryption ask
 check decrypted
 send back for decrypted
 ledger reencryption and cryptos used
- 
 
 
 
@@ -186,12 +185,13 @@ ledger reencryption and cryptos used
 
 
 
-to address issues 
+
+to address issues
 
 addressing issues
 unconstancy for a ledger or a ledger sent back
 assessing issue
-for 
+for
 regularity
 gravity
 procedures
@@ -199,15 +199,15 @@ tasks
 ledgers
 dbs
 packages
-checking ledger constancy  
+checking ledger constancy
 
 addressing it as sporadic or recurrent
 
-for using version it should have the idea of packaging dbs used dependence innovation 
+for using version it should have the idea of packaging dbs used dependence innovation
 reconstancing the ledgers or versions
-should use the concepts of the    there is to have the things there is innovation forking a version or redoing it 
+should use the concepts of the    there is to have the things there is innovation forking a version or redoing it
 
-a unconsitancy for a ledger sends a constancy check to checkers 
+a unconsitancy for a ledger sends a constancy check to checkers
 
 
 
@@ -229,42 +229,39 @@ to ask for rewards
 the checker send to the rewards ask ledger
 the ledger allow a mean rewards and limit excess
 the mean rewards ask is sent to the rewards ledger
-checkers are checking to the mean rewards 
+checkers are checking to the mean rewards
 as checking or checkers needs   the ask for rewards can be sent for no excesses
-a recurence minimum can  
+a recurence minimum can
 
-the askers might need to be using the     to have a proper ask 
+the askers might need to be using the     to have a proper ask
 and to    be using it
-and they use the datas ledger 
+and they use the datas ledger
 it is the ledger for the expertise they need
 
 
-the ask for rwards is used to limit excesses and 
+the ask for rwards is used to limit excesses and
 not to loose the awarded rewards
 and having rewards awarding
 and to have competition
 
 
-to maximize or minimize the rewards is to maximize or minimize the 
-checking inflation popularity 
+to maximize or minimize the rewards is to maximize or minimize
+the
+    checking
+the inflation
+the popularity
+   
+checking is rewarded to the mean ask of rewards
 
-checking is rewarded to a mean ask of rewards
 
+inflation is the cost of transaction
 
-inflation is the 
-
-maximizing the rewards maximize checking and inflation 
-loosing awarded rewards
+maximizing the rewards maximize checking and inflation
+loosing awarded rewards for inflation
 
 minimizing the rewards minimize checking and inflation
-not loosing awarded rewards
-and having minimized checking for not attraactive 
+not loosing awarded rewards for inflation
+and minimized checking for not attraactive
 
-modearration of maximizing and minimizing is attractive 
+modearration of maximizing and minimizing is attractive
 it is not loosing rewards awarded and have proper checking
-
-
-
-
-
-.TH ASKF 3S 

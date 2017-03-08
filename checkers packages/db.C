@@ -1,33 +1,33 @@
-#include  
+#include
 
 
 the dbs
 
-
+    
 
 are odbms
 it can be all the dbs that there are db packages for
 and that have a convenient format
 
- 
-the send send back package and the constancy ledger should be used to certifie a db 
+
+the send send back package and the constancy ledger should be used to certifie a db
 
 the dbs should be reliable scalable to unlimited asks
 
 100  000 000 wallets is not a limit
 
-easy to use 
-and to check 
+easy to use
+and to check
 
 free
 
 
-the dbs are using 
+the dbs are using
 no dependencies
 
- 
 
-the checking package is using the db and the send send back 
+
+the checking package is using the db and the send send back
 
 
 
@@ -54,8 +54,8 @@ the packeges can be for
 
 a db package is a tasks to establish the ledgers to the db and constancing the datas
 
-it has the ledgers formated for a db 
-the tasks to the db for it to have constancy of dataas 
+it has the ledgers formated for a db
+the tasks to the db for it to have constancy of dataas
 
 
 

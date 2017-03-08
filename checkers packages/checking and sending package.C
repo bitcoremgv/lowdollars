@@ -1,16 +1,16 @@
- the checking package 6 
- and the send send back package 389 
- 
- 
- 
- 
+ the checking package
+ and the send send back package
+
+
+
+
     the checking package
- 
- 
-it is the tasks that use the dbs 
-to check the ledgers for sends and asks 
+
+
+it is the tasks that use the dbs
+to check the ledgers for sends and asks
 of the send send back package
-  
+
 
 
 it is the checkers that are
@@ -26,9 +26,9 @@ dbs used
 rewards awarded
 datas
 
-send backs  checkers are checking send back
+send backs    checkers are checking send back
 mean rewards
-mean rewards asks excesses limited 
+mean rewards asks limited
 
 
 
@@ -39,13 +39,13 @@ mean rewards asks excesses limited
 
 
 they check it as tasks of the checking package
-it  is checking the ledgers and ledgering 
+it  is checking the ledgers and ledgering
 it is the tasks for dbs to have constancy of ledgers
+  
 
+for the wallets
 
-for the wallets 
-
-there is 
+there is
 the reencryption asks which are
 
 send decryption ask
@@ -53,18 +53,18 @@ check wallets ledger
 send back decryption send back
 send decrypted
 check wallets ledger
-send back decrypted send back  
-ledgering wallet 
+send back decrypted send back
+ledgering wallet
 send crypted
 ledgering wallet
-send back 
+send back
 
 adress issues
 send and send back constancy issues
 
-for the checkers 
-there is 
-the rewards asks which are  
+for the checkers
+there is
+the rewards asks which are
 
 rewards asks
 
@@ -73,12 +73,12 @@ check constancy issues
 ask for rewards
 check checkers ledger
 ledgering rewards asks ledger
-check mean rewards ask 
-adress excess limit 
+check mean rewards ask
+adress excess limit
 ledgering the rewards ledger
 as a ask for checkers
 check rewards ledger
-asking a rewards ask for needs of checking or checkers 
+asking a rewards ask for needs of checking or checkers
 
 
 
@@ -90,23 +90,23 @@ asking a rewards ask for needs of checking or checkers
 
 
 
- 
+
 the cryptos used check
 
-cryptos used  
+cryptos used
 
 check crypto used
 cryptos ledger
 adress issues
 send back crypto used send back
 
-the cryptos has to   cetrtified 
+the cryptos has to   cetrtified
 it should    coherent to needs
 
-the cryptos used ledger is a guide for wallets and checkers 
+the cryptos used ledger is a guide for wallets and checkers
 it has the needs and cryptos
 
- 
+
 
 
 
@@ -118,11 +118,11 @@ crypted
 send crypted
 check cryptos ledger
   wallet ledger
-send back cryptos used send back  
+send back cryptos used send back
 
 the crypted are the reencryption of the wallet
 it uses the cryptos used
-are ledgered to wallets ledger 
+are ledgered to wallets ledger
 are checked to wallets ledger and cryptos used ledger
 
 it is sent as crypted and cryptos used
@@ -141,13 +141,13 @@ consttancy asks
 send constancy ask
 or unconstancy issue send constancy ask
 check constancy ledger
-send back constancy ask send back 
+send back constancy ask send back
 adress constancy issue
 check ledgers of the issues
 can check ledgers for constancy
-issues can   ledgers tasks packages 
+issues can   ledgers tasks packages
 
-ledgers 
+ledgers
 adressing issues
 constancing ledgers
 
@@ -162,7 +162,7 @@ versions
 
 
 
-the wallets used check 
+the wallets used check
 
 wallets used
 
@@ -170,12 +170,12 @@ send decryption ask
 check wallet ledger
 check wallet used
 send back wallet decryption send back
- 
- 
+
+
 wallets should    certified
 and ledgered to wallet used
 
-the wallets used ledger have the wallets needs  and is a guide  
+the wallets used ledger have the wallets needs  and is a guide
 
 
 
@@ -204,8 +204,8 @@ send checkers package
 db used are certified
 and should be ledgered to checkers ledgers
 
-there is a db used ledger for the db needs that is a guide 
- 
+there is a db used ledger for the db needs that is a guide
+
 
 
 
@@ -222,88 +222,88 @@ is for checkers ledger
 is using checkers package
 send send back package
 
-it uses the mean ask rewards of the 
-ask rewards ledger of the 
-rewards ledger and the 
+it uses the mean ask rewards of the
+ask rewards ledger of the
+rewards ledger and the
 
-checkers ledger and the 
+checkers ledger and the
 
-wallet ledger 
- 
-it    to check if rewards askers use it and issues 
- 
- 
- 
- 
- 
- 
+wallet ledger
+
+it    to check if rewards askers use it and issues
+
+
+
+
+
+
 
 
 
 the datas check
 
-datas 
+datas
 the datas are the ledger rewritten for expertise
 
-send datas 
-check ledgers to check datas  
+send datas
+check ledgers to check datas
 
 send back datas
 uses dats
 
 it is used to have expertise to ask for rewards and adress issues
 
-it is at checkers and can be at wallet 
-  
+it is at checkers and can be at wallet
+
 it is all the datas to follow
 
-it is ux for usability scalability usefulness 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+it is ux for usability scalability usefulness
 
 
 
 
- the send backs scheme for checking package  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ the send backs scheme for checking package
 
 asks
-check 
+check
 send back
 
 or it is used as
-ask 
-check 
-ledger 
+ask
+check
+ledger
 send back
 
 
- 
-the send back for the constancy asks 
 
-asks for constancy  
+the send back for the constancy asks
+
+asks for constancy
 check ledger for the issue
 send back for    issue
 
@@ -313,7 +313,7 @@ send back for    issue
 the send back for the ask for rewards
 
 asks
-check datas 
+check datas
 send back rewards ask
 ledger the rewards asks
 ledger the mean rewards
@@ -326,22 +326,22 @@ ask for rewards ask for needs    checkers or checking
 
 
 
-the send back for the decryption asks 
+the send back for the decryption asks
 
-send  decryption ask 
-check wallet ledger 
-send back decryption ask send back 
+send  decryption ask
+check wallet ledger
+send back decryption ask send back
 send decrypted and reencrypted and cryptos used
-check wallet ledger 
+check wallet ledger
 check cryptos used ledger
-ledger reencryption wallet 
+ledger reencryption wallet
 send back rencryption send back
 
 
 
 the send back for checkers package asks
 
-send checkers package ask 
+send checkers package ask
 send back checkers package
 
 
@@ -356,7 +356,7 @@ send back checkers package
 
 
 
-the checking for the 
+the checking for the
 mean rewards asks excess limited
 
 is the limit of the mean rewards asked and the rewards asks
@@ -368,18 +368,18 @@ the datas ledger
 it is used to avoid unwanted or excesses
 
 it is used to avoid non expertise for rewards asks
-and to have competion reasonable 
- 
- 
+and to have competion reasonable
+
+
 excesses limited is for wallets and checkers
 to avoid minimizing or maximizing to excesses
 
-it is  preventing inflation 
+it is  preventing inflation
 
 it is the limits for rewards asks mean ask
-ask recurency  
+ask recurency
 the mean ask do not mean the excesses
-the checkers have to use it  
+the checkers have to use it
 
 
 
@@ -397,18 +397,18 @@ the checkers have to use it
 
 
 
-the send send back package 
+the send send back package
 
 the send send back are the tasks used to send
 it send and it sends back
 
 
-it send for the checking package to the db package 
+it send for the checking package to the db package
 
-the checking package uses the send send back 
-package 
-it is checked for constancy and legered 
-it uses the 
+the checking package uses the send send back
+package
+it is checked for constancy and legered
+it uses the
 db package
 checkers ledger
 wallets  ledger
@@ -418,13 +418,12 @@ used guide
 
 
 
-the send send back send  package 
+the send send back send  package
 is a guide for sending and sending back tasks datas and ledgers
-and it is the tasks do send 
+and it is the tasks do send
 
 it uses formated   and tasks to send
 
- 
 
 
 
@@ -441,10 +440,11 @@ it uses formated   and tasks to send
 
 
 
- 
- 
- 
- 
+
+
+
+
+
 FILE *fp;
 char *fmt;
 {
