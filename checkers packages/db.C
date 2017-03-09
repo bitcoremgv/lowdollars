@@ -3,23 +3,25 @@
 
 the dbs
 
-    
+
 
 are odbms
 it can be all the dbs that there are db packages for
 and that have a convenient format
 
+the thing is object javascript
 
 the send send back package and the constancy ledger should be used to certifie a db
 
-the dbs should be reliable scalable to unlimited asks
+the dbs should be reliable and scalable to unlimited asks
 
-100  000 000 wallets is not a limit
+100 000 000 wallets is not a limit it is the theoric optisation   10 daily
 
+to be certified the   should be
 easy to use
 and to check
 
-free
+free all ways
 
 
 the dbs are using
@@ -27,12 +29,12 @@ no dependencies
 
 
 
-the checking package is using the db and the send send back
+the checking package is using the db and the send send_backs
 
 
 
 the dbs package
-are the ledgers and the formated for a db
+dbs{}
 
 it has the ledgers scheme and the datas formated for the db
 

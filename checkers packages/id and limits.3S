@@ -1,14 +1,21 @@
  ids ledger
+the wallets_id are the asks id that sended the crypteds
+the constancy_asks_id is the asks id
+the asks id is the place   checkers_id 
+the checkers_id are the packages asks id   the 10 base60 that are sortedly sended
+it allows to have checkers that are not the same place and their materials charecteristics
+it is the rights to vote means it should be attributed responsibly
+it is used for send_backs and sends for unconstancy_issues
 
 th ids are for the checkers
 
 it is use to send the package and ledgers
-it is a id  that the send package and the checkers can use to check the ledgers they checkand the meters
+it is id that the send package and the checkers can use to check the ledgers they checkand the meters
 
 asks checkers package
 send back the checkers package
-asks the checkers is id
-    
+asks the checkers id
+
 to ask it
 the checkers send the meters capacitty dbused
 the send back is a idto check and send
