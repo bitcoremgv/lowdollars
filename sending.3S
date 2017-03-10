@@ -3,45 +3,59 @@
  the esending
 
  is the asks and the send back
-
+asks is   send asks_ids and isinstanceofledgers
 
 the asks
-   
+
 for              it is          it does
-decryption  	the wallets 	sends	the wallet crypted    the cryptos used	  the checkers
+decryption  	  wallets 	    sends	asks_ids    wallets_ledger instance    try per checkers
 
-reencryption	the wallets		sends	the crypted wallet		the cryptos used    checkers
-rewards          the checkers	sends	the ask															      checkers
-packages	  	the checkers	sends	the meters				    the db used     checkers
-constancy	  	the checkers	sends	the issues														    checkers
-issues		  	the issuer 		sends	the issue														      checkers
-
-
+reencryption	  wallets		sends	asks_ids    wallets_ledger instance    crypted the cryptos used  the decripted
+rewards          the checkers	sends   asks_ids	rewards_asks_ledger
+packages	  	the checkers	sends	asks_ids    meters		checkers_used_guide     db used capacity   material characteristics
+constancy	  	the checkers	sends	asks_ids    constancy_ledger instance    													    checkers
+issues		  	the issuer 		sends	asks_ids    issue          instance	 													      checkers
 
 
 
 
 
 
-the sending have a sending back
+
+
+the sending that have a sending back
 
 asks
-decryption asks 		check wallets												                   	send back
-check crypto used
-reencryption asks		check wallets ledger 		ledger wallets                  send back
-						        check cryptos used
+decryption asks 		check wallets   issues   limits           send back asks_ids trys
+                        wallets_ledger instance
 
-rewards asks		  	check checkers ledger   ledger rewards asks ledger			send back
+
+reencryption asks		check wallets   		ledger new wallets        send back asks_ids try levels wallets_ledger
+						                               new cryptos        send_backs or check limits
+                                limits                                    send_backs or check issues
+
+                                issues      new issues     send_backs and     for the levels
+
+
+                                unconstancy_issues or wallets_ledger
+
+rewards asks		  	check checkers ledger   ledger rewards asks ledger			send back asks_ids rewards_asks_ledger instance
 					        	check rewards legdger
 				          	check rewards asks
+                            limits   ledger new rewards_asks or issues
 
 packages asks		  	check checkers ledger
-						        check checking guide										              	send back
+                         issues     limits
 
-constancy asks			check ldgers			    	constancy ledger				      	send back
+                                check checking guide  ledger new checkers or issues    send back asks_ids checkers_id packages
 
-issues 			    		assess
-                    check ledger  version  tasks		                        send back to adress issue
+constancy asks			check ldgers			    	constancy ledger				      	send back asks_ids constancy ledger instance
+
+
+
+issues 			ledger new issue asks         send_backs   asks_ids  issues ledger instance
+                 assess
+                    check  ledger  version  tasks    send to adress issue
 
 
 
@@ -51,18 +65,18 @@ issues 			    		assess
 
 no send back
 
-checking				checkers ledger		send	check for constancy of checkers ledger		the send back could be for unconstancy
+checking    checkers ledger		send	check for constancy of checkers ledger		the send back could be for unconstancy
 
-ledgering       ledgers			     	send	check for constancy 						          the send back could be for unconstancy
-
-
+ledgering       ledgers         send	check for constancy 						          the send back could be for unconstancy
 
 
 
 
 
 
-the sending is reconfirmable  and scalable
+
+
+the sending is reconfirmable and scalable
 it is formated for the sending to be used
 for the db used and for the checking package
 
@@ -73,7 +87,7 @@ the sending scheme should allow the crypted to be sent
 
 
 the sending might not be encrypted sending
- and it is the sending that is crypted
+
 
 
 it should reencrypt a wallet using wifi and mobile

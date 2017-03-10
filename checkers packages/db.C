@@ -92,7 +92,7 @@ the tasks to the db for it to have constancy of dataas
 askf(prompt)
 char *prompt;
 {
-va_list argp;
+   ;
 char *fmt;
 int r;
 

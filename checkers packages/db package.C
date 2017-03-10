@@ -2,7 +2,7 @@
 
 the db package
 
-var dbs
+var dbs =
 
  {
 
@@ -12,18 +12,19 @@ var dbs
 
 wallets_ledger : {
 
-wallets_id :{asks ids :{ lieu :{}   :{}  id {} } ,cryptos_used : {cryptos_used_ids {  } }, crypteds :{ isplain } , lowdollars :{}   }
+wallets_id :{ asks_ids:{ place :{ isplace }   :{iscurrenr}  id  {  islow id  } } ,{}     cryptos_used : { tocrypted    todryptedminus },  cryppted :{   }     {  } } , lowdollars :{}   }
 
  } ,
  checkers_ledger : {
   _
- send_backs	:{} , asks	:{} , checks_id :{ids   {}  checkers_ids  {} , checks:{checkers_id  {}  ledgers  {}  objects  {}  },
+ send_backs	:{    } , asks :{isplain  {}  instanceofdbs  {} } , checks_id :{asks_ids   checkers_ids } , checks:{ sortedsendbacks  {} },
+
 constancy_ledger : {
 
-constancy_asks_id   {} ,constancy_checks	:{} ,		unconstancy_issues	:{} , constancy_asks:{} },
+constancy_asks_id { asks_ids } ,constancy_checks	:{send_backs sorted } , unconstancy_issues :{ issue } , constancy_asks:{  } },
 
-rewards_asks_ledger : {rewards_asks_id {} , 	checkers	:{} , rewards_asks:{}  },
-mean_asked_rewards_ledger:{mean_ask_id  {} ,mean_ask:{}  } },
+rewards_asks_ledger : {rewards_asks_id {asks_ids} , checkers	:{checkers_ids} , rewards_asks:{    } },
+mean_asked_rewards_ledger:{mean_ask_id  {} ,mean_ask:{   } } },
 
 
 
